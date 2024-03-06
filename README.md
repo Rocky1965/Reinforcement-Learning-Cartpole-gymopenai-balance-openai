@@ -8,15 +8,15 @@ Implementation of state-of-the-art reinforcement learning algorithms such as
 
 ## Results: 
 ### Q-Table
-- Q-table training:
+- Q-table training: <br>
   ![alt text](https://github.com/Shubham1965/Reinforcement-learning/blob/master/Q-table-training.png)
-- Q-Table:
+- Q-Table: <br>
   ![alt text](https://github.com/Shubham1965/Reinforcement-learning/Q-table.png)
 
-### Policy gradient:
-  ![alt text](https://github.com/Shubham1965/Reinforcement-learning/pg.png)
+### Policy gradient: <br>
+  <img src="https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/pg.png" width="590" >
 
-### Deep Q-network: 
+### Deep Q-network: <br>
   ![alt text](https://github.com/Shubham1965/Reinforcement-learning/dqn.png)
 
 This repository is based on the bonus assignment that I completed for the coursework of "Computer Science for Mechanical Engineers II", offered by DSME RWTH Aachen, headed by Prof. Trimpe. 
