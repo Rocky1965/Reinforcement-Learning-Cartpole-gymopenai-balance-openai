@@ -9,7 +9,7 @@ Implementation of state-of-the-art reinforcement learning algorithms such as
 ## Results: 
 ### Q-Table
 - Q-table training:
-  ![alt text](https://github.com/shubham1965/Reinforment-learning/Q-table-training)
+  ![alt text](https://github.com/shubham1965/Reinforment-learning/blob/master/Q-table-training)
 - Q-Table:
   ![alt text](https://github.com/shubham1965/Reinforment-learning/Q-table)
 
