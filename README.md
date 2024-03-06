@@ -14,7 +14,7 @@ Implementation of state-of-the-art reinforcement learning algorithms such as
   ![alt text](https://github.com/Shubham1965/Reinforcement-learning/Q-table.png)
 
 ### Policy gradient: <br>
-  <img src="https://github.com/sachdevkartik/Reinforcement-Learning/blob/master/photos/pg.png" width="590" >
+  <img src="https://github.com/Shubham1965/Reinforcement-Learning/blob/master/photos/pg.png" width="590" >
 
 ### Deep Q-network: <br>
   ![alt text](https://github.com/Shubham1965/Reinforcement-learning/dqn.png)
